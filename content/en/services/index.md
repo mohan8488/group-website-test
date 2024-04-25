@@ -76,7 +76,7 @@ sections:
         align: left
         background:
           image:
-            filename: 3d_print_2.jpg
+            filename: 3D_print_2.jpg
             filters:
               brightness: 0.6
           position: center
