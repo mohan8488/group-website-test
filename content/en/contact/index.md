@@ -21,8 +21,8 @@ sections:
         country: Austria
         country_code: AT
       coordinates:
-        latitude: '648.8583'
-        longitude: '2.2923'
+        latitude: '48.2217'
+        longitude: '16.3555'
       directions: Enter through the gate of Boltzmanngasse 1 and call the contact number. Any of the group members will come to collect you.
       office_hours:
         - 'Monday to Friday 9:00 to 17:00'
