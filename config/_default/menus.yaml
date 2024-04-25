@@ -19,6 +19,13 @@ main:
   - name: Publications
     url: publication
     weight: 50
+  - name: Collaborators
+    url: collaborator
+    weight: 60
+  - name: Services
+    url: services
+    weight: 70    
   - name: Contact
     url: contact
-    weight: 60
+    weight: 80
+  
