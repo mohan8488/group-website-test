@@ -15,7 +15,6 @@ sections:
         led by <a style="text-decoration:none;" href="http://localhost:1313/author/roberto-cerbino/">Prof. Roberto Cerbino</a>!  
         From exploring the behavior of polymers and colloids to investigating the dynamics of biological systems, we are dedicated to unraveling the complexities of **Soft** materials. Whether you're a seasoned researcher or an aspiring scientist, we invite you to join us on this exciting journey of discovery.
         {style="text-align: justify;"}
-        
   
   - block: collection
     content:
@@ -56,7 +55,7 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  
+        
   - block: markdown
     content:
       title:

@@ -25,21 +25,23 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Training and working with (therapy) dogs
+  - Interior design
+  - Gardening
+  - Intuitive nutrition, mental training, meditation
+  - Fitness
 
 education:
   courses:
-    - course: Material Science and Technology
-      institution: University of Crete
-      year: 2021
-    - course: MSc in Chemical Engineering
-      institution: Indian Institute of Technology Madras
-      year: 2016
-    - course: B-Tech in Chemical Engineering
-      institution: University of Calicut
-      year: 2010
+    #- course: Material Science and Technology
+    #  institution: University of Crete
+    #  year: 2021
+    #- course: MSc in Chemical Engineering
+    #  institution: Indian Institute of Technology Madras
+    #  year: 2016
+    - course: Viennese Business College (Handelsakademie)
+    #  institution: University of Calicut
+    #  year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -78,4 +80,6 @@ user_groups:
 #  - Visitors
 ---
 
-Short description....
+I am the secretary of the the Group “Experimental Soft Matter Physics” (Somex Lab) since April 2021. I have been associated with University of Vienna since February 2011, initially as a personnel referent in the Human Resources and Gender Equality department (HR Services), responsible for all personnel matters of the Faculty of Physics and the unit's International Office and Research Services and Career Development.
+
+After a 2 year stay in Germany I was happy to return to the University of Vienna in 2021 to the newly founded research group of **[Prof. Cerbino](https://mohan8488.github.io/group-website-test/author/roberto-cerbino/)**, where I am responsible for all administrative and non-scientific matters.

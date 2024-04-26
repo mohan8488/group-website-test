@@ -27,9 +27,9 @@ sections:
         align: left
         background:
           image:
-            filename: confocal_3.jpg
+            filename: confocal_1.jpg
             filters:
-              brightness: 0.8
+              brightness: 0.7
           position: center
           color: '#111'
         link:
