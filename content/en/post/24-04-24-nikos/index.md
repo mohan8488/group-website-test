@@ -19,5 +19,5 @@ He also highlighted the challenges on relying just on rheological measurements a
 N. Kalafatakis was able to provide a glimpse of the interesting world of Soft Matter Physics to a cheerful  audience of students and faculty from various academic backgrounds as they sipped their favorite beers. 
 
 {{% callout note %}}
-\* Please contact N. Kalafatakis to understand more about his research.
+\* Contact N. Kalafatakis to understand more about his research.
 {{% /callout %}}

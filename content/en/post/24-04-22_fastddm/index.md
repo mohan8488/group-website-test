@@ -1,9 +1,9 @@
 ---
-title: Introducing FastDDM
-summary: We are thrilled to announce the release of FastDDM, a Python package designed for the analysis of Differential Dynamic Microscopy experiment data.
+title: FastDDM
+summary: FastDDM is a Python library for the analysis of microscopy image sequences using Differential Dynamic Microscopy on CPU and GPU. The features implemented are targeted at the experimental soft matter research community dealing with inert and active/biological samples.
 authors:
   - Enrico
-date: 2024-04-09
+date: 2024-04-16T00:00:00Z
 image:
   focal_point: 'top'
 # Show this page in the Featured widget?
