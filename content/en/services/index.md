@@ -29,7 +29,7 @@ sections:
           image:
             filename: confocal_1.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.8
           position: center
           color: '#111'
         link:
@@ -76,9 +76,9 @@ sections:
         align: left
         background:
           image:
-            filename: 3D_print_2.jpg
+            filename: 3D_print_5.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.7
           position: center
           color: '#222'
         link:
@@ -91,9 +91,9 @@ sections:
         align: left
         background:
           image:
-            filename: dls_new.jpg
+            filename: scattering.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
           color: '#222'
         link:
