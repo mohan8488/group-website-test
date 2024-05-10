@@ -22,7 +22,7 @@ organizations:
     url: 'https://comp-phys.univie.ac.at/people/phd-students/#c923368'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Cell biophysics, Living matter and Soft matter physics.
 
 interests:
   - Cell biophysics

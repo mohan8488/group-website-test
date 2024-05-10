@@ -22,7 +22,7 @@ organizations:
     url: 'https://comp-phys.univie.ac.at/people/master-students/#c941698'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include structure & dynamics of cellular monolayers, data analysis & visualisation in Python.
 
 interests:
   - structure & dynamics of cellular monolayers, especially un/jamming transitions

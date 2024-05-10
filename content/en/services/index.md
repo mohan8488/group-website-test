@@ -71,8 +71,7 @@ sections:
           url: ../contact/
       - title: 3D printing 🖨️
         content: |
-          Materialize your complex designs with our advanced 3D printing facility tailored for scientific research. Having different filament options to choose from, we empower researchers to innovate with ease. From custom lab equipment to intricate prototypes, our facility delivers with accuracy and reliability.   
-          Elevate your scientific exploration and accelerate breakthroughs with our comprehensive 3D printing solutions.
+          Materialize your complex designs with our advanced 3D printing facility tailored for scientific research. Having different filament options to choose from, we empower researchers to innovate with ease. From custom lab equipment to intricate prototypes, our facility delivers with accuracy and reliability. Elevate your scientific exploration and accelerate breakthroughs with our comprehensive 3D printing solutions.
         align: left
         background:
           image:
