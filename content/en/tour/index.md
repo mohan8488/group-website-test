@@ -40,14 +40,14 @@ sections:
               brightness: 0.6
           position: center
           color: '#444'
-      - title: Particle Image Velocimetry (PIV) 🔆
-        content: 'Short description...'
+      - title: Structure & dynamics in Cellular Monolayers 🧫
+        content: 'Through particle image velocimetry (PIV) we can probe dynamical changes in cellular monolayers, their velocity correlation lengths and directional alignments and orderedness. A different perspective on cellular dynamics comes from following the trajectories of single cells within a monolayer, which provides the general quantity mean square displacement (MSD) and its scaling behaviour over time, opening a porthole into the dynamics of a cellular monolayer as it ages. For more information on this project contact **[Fabian](https://mohan8488.github.io/group-website-test/author/fabian-krautgasser/)**'
         align: left
         background:
           image:
             filename: PIV.jpg
             filters:
-              brightness: 0.5
+              brightness: 1
           position: center
           color: '#333'
       - title: Mechanobiology 🧬
