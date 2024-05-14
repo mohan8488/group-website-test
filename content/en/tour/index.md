@@ -29,19 +29,19 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Nonlinear dynamics of soft materials 🧈
+      - title: Nonlinear Dynamics of Soft Materials 🧈
         #We study the dynamics of soft materials like pastes, emulsions and gels, undergoing shear flow induced by a controlled mechanical deformation. We primarily investige “yielding”, a transition from a solid-like to a liquid-like mechanical behavior of soft materials.
         content: 'Coupling rheometry with microscopy, we study the dynamics of soft materials like pastes, emulsions and gels, undergoing shear flow. This method allows us to measure the macroscopic mechanical properties of the material and simultaneously track embedded microparticles to assess the localized shear-induced diffusion. We design and prototype and/or improve custom-made instruments, develop codes (LabVIEW, MatLab) and perform image Processing. For more information contact [N. Kalafatakis](https://mohan8488.github.io/group-website-test/author/nikolaos-kalafatakis/).'
         align: left
         background:
           image:
-            filename: shear_cell.jpg
+            filename: shear_cell-2.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.8
           position: center
           color: '#444'
       - title: Structure & dynamics in Cellular Monolayers 🧫
-        content: 'Through particle image velocimetry (PIV) we can probe dynamical changes in cellular monolayers, their velocity correlation lengths and directional alignments and orderedness. A different perspective on cellular dynamics comes from following the trajectories of single cells within a monolayer, which provides the general quantity mean square displacement (MSD) and its scaling behaviour over time, opening a porthole into the dynamics of a cellular monolayer as it ages. For more information on this project contact **[Fabian](https://mohan8488.github.io/group-website-test/author/fabian-krautgasser/)**'
+        content: 'Through particle image velocimetry (PIV) we can probe dynamical changes in cellular monolayers, their velocity correlation lengths and directional alignments and orderedness. A different perspective on cellular dynamics comes from following the trajectories of single cells within a monolayer, which provides the general quantity mean square displacement (MSD) and its scaling behaviour over time, opening a porthole into the dynamics of a cellular monolayer as it ages. For more information on this project contact **[Fabian](https://mohan8488.github.io/group-website-test/author/fabian-krautgasser/)**.'
         align: left
         background:
           image:
