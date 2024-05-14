@@ -10,7 +10,7 @@ sections:
       title: |
         Welcome to **S**oft **M**atter **EX**periment Lab
       image:
-        filename: welcome-500px.gif
+        filename: welcome.gif
       text: |
         led by <a style="text-decoration:none;" href="http://localhost:1313/author/roberto-cerbino/">Prof. Roberto Cerbino</a>!  
         From exploring the behavior of polymers and colloids to investigating the dynamics of biological systems, we are dedicated to unraveling the complexities of **Soft** materials. Whether you're a seasoned researcher or an aspiring scientist, we invite you to join us on this exciting journey of discovery.

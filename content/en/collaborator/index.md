@@ -34,11 +34,12 @@ sections:
       text: |
         | Name   | Current affiliation | Project |
         |:----------:|:-------------:|:-------------:|
-        | [Véronique Trappe](https://www.unifr.ch/phys/en/research/scheffold/group-members/people/18428/19670) | Department of Physics, University of Fribourg (Switzerland) | xyz |
-        | [Fabio Giavazzi](https://www.unimi.it/en/ugov/person/fabio-giavazzi) | Department of Medical Biotechnology and Translational Medicine, University of Milan (Italy) | xyz |
-        | [George Petekidis](https://www.iesl.forth.gr/en/people/petekidis-george) | Department of Material Science and Technology, University of Crete (Greece) | xyz |
-        | [Philippe Coussot](https://philippecoussot.com/) | ENPC-University Gustave Eiffel-CNRS (France) | xyz |
-        | [Francesco Sciortino](https://www.roma1.infn.it/~sciortif/curriculum.htm) | Department of Physics, University of Rome La Sapienza (Italy) | xyz |
+        | [Véronique Trappe](https://www.unifr.ch/phys/en/research/scheffold/group-members/people/18428/19670) | Department of Physics, University of Fribourg (Switzerland) | --- |
+        | [Fabio Giavazzi](https://www.unimi.it/en/ugov/person/fabio-giavazzi) | Department of Medical Biotechnology and Translational Medicine, University of Milan (Italy) | --- |
+        | [Giorgio Scita](https://www.ifom.eu/en/cancer-research/researchers/giorgio-scita.php) | Faculty of Medicine, University of Milan (Italy) | --- |
+        | [Francesco Sciortino](https://www.roma1.infn.it/~sciortif/curriculum.htm) | Department of Physics, University of Rome La Sapienza (Italy) | --- |
+        | [George Petekidis](https://www.iesl.forth.gr/en/people/petekidis-george) | Department of Material Science and Technology, University of Crete (Greece) | --- |
+        | [Philippe Coussot](https://philippecoussot.com/) | ENPC-University Gustave Eiffel-CNRS (France) | --- |
     design:
       columns: '1'
   - block: markdown
@@ -50,7 +51,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: map-2.jpg
+          filename: map_edit_2.jpg
           filters:
             brightness: 1
           parallax: false
