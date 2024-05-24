@@ -33,10 +33,10 @@ sections:
           icon_pack: fab
           name: DM us..
           link: 'https://twitter.com/somexlab'
-        - icon: instagram
-          icon_pack: fab
-          name: Check out our Insta
-          link: 'https://twitter.com/somexlab'  
+        #- icon: instagram
+        #  icon_pack: fab
+        #  name: Check out our Insta
+        #  link: 'https://twitter.com/somexlab'  
     
       # Automatically link email and phone or display as text?
       autolink: true
