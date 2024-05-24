@@ -26,19 +26,19 @@ sections:
       show_role: true
       show_social: true
 
-  - block: markdown
-    content:
-      title: Alumni (University of Milan)
-      subtitle:
-      # for table, to align to right, put ":" on the right
-      # to center align, put ":" at the extremes
-      # in |------| field (e.g. |:------:|)
-      text: |
-        | Name   |  Current affiliation |
-        |----------|-------------|
-        | col 1 is |  left-aligned |
-        | col 2 is |    centered   |
-        | col 3 is | right-aligned |
-    design:
-      columns: '1'
+#  - block: markdown
+#    content:
+#      title: Alumni (University of Milan)
+#      subtitle:
+#      # for table, to align to right, put ":" on the right
+#      # to center align, put ":" at the extremes
+#      # in |------| field (e.g. |:------:|)
+#      text: |
+#        | Name   |  Current affiliation |
+#        |----------|-------------|
+#        | col 1 is |  left-aligned |
+#        | col 2 is |    centered   |
+#        | col 3 is | right-aligned |
+#    design:
+#      columns: '1'
 ---
