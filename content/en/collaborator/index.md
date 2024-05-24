@@ -51,7 +51,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: map_edit_2.jpg
+          filename: map-edit_3.jpg
           filters:
             brightness: 1
           parallax: false

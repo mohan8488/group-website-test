@@ -53,9 +53,9 @@ social:
   #- icon: twitter
     #icon_pack: fab
     #link: https://twitter.com/NKalafatakis
-  #- icon: google-scholar
-    #icon_pack: ai
-    #link: https://scholar.google.com/citations?user=XeR8fO4AAAAJ&hl=en&oi=ao
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=oxqqdVIAAAAJ&hl=it
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jasmin-di-franco-181440245/
